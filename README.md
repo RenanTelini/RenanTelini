@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome 👋
 
 ##### Sorry for the mess but we are under construction... 👷🏽‍♂️🛠
 
