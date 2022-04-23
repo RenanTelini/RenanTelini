@@ -1,6 +1,6 @@
-### Hi there, welcome 👋
+### Olá, bem-vindo!!! 👋
 
-##### Sorry for the mess but we are under construction... 👷🏽‍♂️🛠
+##### Por enquanto fique com o meu LinkedIn: https://www.linkedin.com/in/renan-telini
 
 <!--
 **RenanTelini/RenanTelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
