@@ -2,14 +2,14 @@
 
 <br>
 
-<div>
+<div align="center">
 		<a href="https://github.com/RenanTelini" target="_blank">
-			<img height="180em"
+			<img height="160em"
 				src="https://github-readme-stats.vercel.app/api?username=RenanTelini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
 				target="_blank" />
 		</a>
 		<a href="https://github.com/RenanTelini" target="_blank">
-			<img height="180em"
+			<img height="160em"
 				src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanTelini&layout=compact&langs_count=7&theme=github_dark"
 				target="_blank" />
 		</a>
