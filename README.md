@@ -47,6 +47,7 @@
 
 <!-- Contact me -->
 <div align="center">
+	<h3>Contact me</h3>
 	<a href="https://www.linkedin.com/in/renan-telini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
