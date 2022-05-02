@@ -54,11 +54,9 @@
 	<a href = "mailto:renan_telini@hotmail.com"><img align-items="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- ##
+##
 
-<div align="center">
-	![Snake animation](https://github.com/RenanTelini/RenanTelini/blob/output/github-contribution-grid-snake.svg)
-</div> -->
+![Snake animation](https://github.com/RenanTelini/RenanTelini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **RenanTelini/RenanTelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
