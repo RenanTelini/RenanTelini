@@ -17,7 +17,7 @@
 </div>
 	
 ##
-
+<!--
 <div align="center">
 	<h3>Front-End</h3>
 	<img align-items="center" alt="HTML5" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -36,14 +36,16 @@
 </div>
   
 ##
-
+-->
 <div align="center">
 	<h3>Tools</h3>
 	<img align-items="center" alt="Git" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />	
 	<img align-items="center" alt="GitHub" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 	<img align-items="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+	<!--
 	<img align-items="center" alt="Postman" height="50" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-        <img align-items="center" alt="Heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+    <img align-items="center" alt="Heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+	-->
 </div>
 
 ##
@@ -52,7 +54,6 @@
 <div align="center">
 	<h3>Contact me</h3>
 	<a href="https://www.linkedin.com/in/renan-telini" target="_blank"><img align-items="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href = "mailto:renan_telini@hotmail.com"><img align-items="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 ##
