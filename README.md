@@ -58,7 +58,9 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/RenanTelini/RenanTelini/output/snake.svg" alt="Snake animation" />
+<div align=center>
+	<img src="https://raw.githubusercontent.com/RenanTelini/RenanTelini/output/snake.svg" alt="Snake animation" />
+</div>
 
 <!--
 **RenanTelini/RenanTelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
