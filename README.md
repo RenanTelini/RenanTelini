@@ -1,23 +1,24 @@
 <h2 align="center">Olá, bem-vindo!!! 👋</h2>
 <h4 align="center">Hello, welcome!!! 👋</h4>
 
+<!--
 <br>
 
 <div align="center">
 		<a href="https://github.com/RenanTelini" target="_blank">
-			<img height="160em"
+			 <img height="160em"
 				src="https://github-readme-stats.vercel.app/api?username=RenanTelini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
-				target="_blank" />
+				target="_blank" /> 
 		</a>
 		<a href="https://github.com/RenanTelini" target="_blank">
 			<img height="160em"
 				src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanTelini&layout=compact&langs_count=7&theme=github_dark"
 				target="_blank" />
-		</a>
+		</a> 
 </div>
-	
-##
-<!--
+
+<!-- ## 
+
 <div align="center">
 	<h3>Front-End</h3>
 	<img align-items="center" alt="HTML5" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -33,7 +34,7 @@
     <img align-items="center" alt="Spring" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 	<img align-items="center" alt="SQLServer" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="background-color:white"/>	
 	<img align-items="center" alt="MongoDB" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
+</div> 
   
 ##
 -->
@@ -42,6 +43,7 @@
 	<img align-items="center" alt="Git" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />	
 	<img align-items="center" alt="GitHub" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 	<img align-items="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+	<img align-items="center" alt="SQLServer" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="background-color:white"/>	
 	<!--
 	<img align-items="center" alt="Postman" height="50" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
     <img align-items="center" alt="Heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
