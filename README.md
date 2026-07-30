@@ -1,5 +1,4 @@
-<h2 align="center">Olá, bem-vindo!!! 👋</h2>
-<h4 align="center">Hello, welcome!!! 👋</h4>
+<h2 align="center">Hello, welcome!!! 👋</h2>
 
 <!--
 <br>
@@ -27,25 +26,32 @@
 </div>
 
 ##
-
+-->
 <div align="center">
 	<h3>Back-End</h3>
+	<!--
 	<img align-items="center" alt="Java" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align-items="center" alt="Spring" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 	<img align-items="center" alt="SQLServer" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="background-color:white"/>	
 	<img align-items="center" alt="MongoDB" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+	-->
+	<img align-items="center" alt="SQLServer" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="background-color:white"/>	
+	<img align-items="center" alt="C-Sharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div> 
   
 ##
--->
+
 <div align="center">
 	<h3>Tools</h3>
 	<img align-items="center" alt="Git" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />	
-	<img align-items="center" alt="GitHub" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+	<img align-items="center" alt="GitHub" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />	
+	<img align-items="center" alt="VisualStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
 	<img align-items="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-	<img align-items="center" alt="SQLServer" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="background-color:white"/>	
 	<!--
 	<img align-items="center" alt="Postman" height="50" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+	<img align-items="center" alt="SQLServer" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="background-color:white"/>	
+	<img align-items="center" alt="C-Sharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />	
+	
     <img align-items="center" alt="Heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 	-->
 </div>
@@ -64,17 +70,4 @@
 	<img src="https://raw.githubusercontent.com/RenanTelini/RenanTelini/output/snake.svg" alt="Snake animation" />
 </div>
 
-<!--
-**RenanTelini/RenanTelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Sorry, still cooking... Check back soon 😁!
